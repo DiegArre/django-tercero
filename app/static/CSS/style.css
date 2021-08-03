@@ -1,0 +1,58 @@
+#palabra h1 {
+    color : #fbcb40;
+    font-family: Helvetica,Arial,Sans-Serif;
+    border: 1px whitesmoke solid;
+
+}
+
+.blanco {
+
+    color: whitesmoke;
+    text-transform: uppercase;
+    /* font-weight: 600; */
+    font-size: 22px;
+}
+
+.blanco2 {
+    color:whitesmoke;
+    letter-spacing: 2px;
+    font-size: 15px;
+}
+
+.bo {
+    color:whitesmoke;
+    letter-spacing: 3px;
+}
+
+.etiqueta {
+
+    display: inline-block;
+    color: white;
+    background-color: #fbcb40;
+    font-size: 28px;
+    
+}
+
+#submit {
+    color: #212529;
+    background-color: #fbcb40;
+    text-transform: uppercase;
+    font-size: 15px;
+    letter-spacing: 2px;
+}
+
+
+header h2 p{
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 16px;
+    letter-spacing: 3px;
+}
+
+
+body{
+
+    background-color: #222222 !important;
+}
+
